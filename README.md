@@ -1,3 +1,5 @@
+![AUPR](https://github.com/DerEnte/Advanced-Unturned-Player-Rig/assets/80266096/962c36ad-a7e3-4480-b289-6ed7884b6eed)
+
 # Advanced Unturned Player Rig
 An advanced rig of the unturned player rig with inverse kinematics for simplifying the animation process of unturned animations.
 
