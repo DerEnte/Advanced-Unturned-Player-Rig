@@ -20,5 +20,4 @@ Edits to the face textures by Pork
 
 Special thanks to:
 -----------------
-Diddlyono
-Dug
+Diddlyono and Dug for testing the rig out before release.
