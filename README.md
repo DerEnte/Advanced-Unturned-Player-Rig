@@ -6,6 +6,7 @@ An advanced rig of the unturned player rig with inverse kinematics for simplifyi
 # How to use
 
 Use it like the normal default unturned rig, just with inverse kinematics.
+USE BLENDER 3.0 OR ABOVE
 
 # Credits
 
