@@ -10,7 +10,7 @@ USE BLENDER 3.0 OR ABOVE
 
 # Credits
 
-Technical:
+Technical
 -----------------
 Original rig and model by Nelson Sexton
 
@@ -18,7 +18,7 @@ Improvements to the rig by Der Ente
 
 Original customizable material by Boulevard, expansion by Der Ente
 
-Textures:
+Textures
 -----------------
 Original hoodie, pants, original faces by Nelson Sexton
 
@@ -28,11 +28,11 @@ Gloves texture by Renaxon
 
 Edits to the face textures by Pork
 
-Special thanks to:
+Special thanks to
 -----------------
 Diddlyono and Dug for testing the rig out before release.
 
-# Resources and tutorials:
+# Resources and tutorials
 
 [Unturned] AUPR Unity Tutorial By JienSultan https://youtu.be/PdsM8XpClE8:
   Covers how to import your animations into unity and make them useable in-game.
