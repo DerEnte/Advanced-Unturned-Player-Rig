@@ -31,3 +31,9 @@ Edits to the face textures by Pork
 Special thanks to:
 -----------------
 Diddlyono and Dug for testing the rig out before release.
+
+# Resources on how to use it
+
+https://youtu.be/PdsM8XpClE8
+
+https://youtu.be/fZF-L1A9ijs
