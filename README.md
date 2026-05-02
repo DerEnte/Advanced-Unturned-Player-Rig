@@ -32,7 +32,7 @@ Special thanks to:
 -----------------
 Diddlyono and Dug for testing the rig out before release.
 
-# Resources on how to use it
+# Resources and tutorials:
 
 [Unturned] AUPR Unity Tutorial By JienSultan https://youtu.be/PdsM8XpClE8:
   Covers how to import your animations into unity and make them useable in-game.
