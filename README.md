@@ -34,8 +34,13 @@ Diddlyono and Dug for testing the rig out before release.
 
 # Resources and tutorials
 
+Tutorials and resources regarding item animation for unturned. May or may not include the use of AUPR.
+
 [Unturned] AUPR Unity Tutorial By JienSultan https://youtu.be/PdsM8XpClE8:
   Covers how to import your animations into unity and make them useable in-game.
 
 [Unturned] Rigging & AUPR Tutorial By JienSultan https://youtu.be/fZF-L1A9ijs:
   Covers rigging weapons and attaching them to the player skeleton.
+
+Unturned gun animation tutorial by Kaze https://www.youtube.com/watch?v=VPraEKRMWWo
+  Covers the full animation and unity process.
